@@ -18,7 +18,6 @@ Environment variables required:
     PR_NUMBER       - Pull request number to analyze
 """
 
-import json
 import os
 import sys
 import textwrap
